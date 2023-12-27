@@ -84,7 +84,7 @@
 			<img src="https://skillicons.dev/icons?i=docker" />
 		</td>
 		<td>
-			<img src="https://skillicons.dev/icons?i=facebook" />
+			Lombok<br>MapStruct<br>Axios
 		</td>
 	</tr>
  </tr>
@@ -101,9 +101,8 @@
 <p >
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PabloExeqGimenez&theme=tokyonight" width="750" align="center">
 <br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pabloexeqgimenez&theme=tokyonight" width="250">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pabloexeqgimenez&theme=tokyonight" width="250">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pabloexeqgimenez&theme=tokyonight&utcOffset=8" width="250">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pabloexeqgimenez&theme=tokyonight" width="375">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pabloexeqgimenez&theme=tokyonight" width="375">
 	
 </p>
 
