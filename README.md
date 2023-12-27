@@ -26,10 +26,10 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pabloexeqgimenez&theme=tokyonight"/></p>
 </div>
 
-<div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
+<div align="right">
+ <b style = {font-weight: 400}>Visitors Count</b>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pabloexeqgimenez}/count.svg" /></p> 
+<p><img src="https://profile-counter.glitch.me/{pabloexeqgimenez}/count.svg" /></p> 
 <br>
 </div>
 
