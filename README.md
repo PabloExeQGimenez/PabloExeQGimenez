@@ -19,9 +19,17 @@
     <img src="https://skillicons.dev/icons?i=gradle,hibernate,postgres,postman,idea,vscode,eclipse,linux,git,github,docker" />
   </a>
 </p>
+<p>
+  ## Github Stats
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pabloexeqgimenez&theme=tokyonight"/></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloexeqgimenez&layout=compact&theme=tokyonight"/></p>
+</p>
+
+
 </div>
 
-![3D Profile](https://github.com/JayantGoel001/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 <!--
 **PabloExeQGimenez/PabloExeQGimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
