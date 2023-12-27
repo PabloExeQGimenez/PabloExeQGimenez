@@ -33,9 +33,6 @@
 <p style = {font-weight: 400}><img src="https://profile-counter.glitch.me/{pabloexeqgimenez}/count.svg" /></p> 
 <br>
 <hr>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=pabloexeqgimenez&theme=tokyonight&no-bg=true" />
-
 
 
 <!--
