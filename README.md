@@ -1,7 +1,8 @@
+![Web-developer](https://res.cloudinary.com/dryi0j55n/image/upload/f_auto,q_auto/v1/varios/lquqn3z49xv60aadwrl5)
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40">
 
-![Web-developer](https://res.cloudinary.com/dryi0j55n/image/upload/f_auto,q_auto/v1/varios/lquqn3z49xv60aadwrl5)
 <div align="center">
+
 <h2>Languages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
