@@ -25,9 +25,10 @@
   <h2>Github Stats</h2>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pabloexeqgimenez&theme=tokyonight"/></p>
-</div>
 <hr>
+<img align="right" src="https://views.whatilearened.today/views/github/pabloexeqgimenez/pabloexeqgimenez.svg?cache=remove"/>
 
+</div>
 
 <!--
 **PabloExeQGimenez/PabloExeQGimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
