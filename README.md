@@ -36,8 +36,7 @@
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=pabloexeqgimenez&theme=tokyonight&no-bg=true" />
 
-[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=pabloexeqgimenez&theme=tokyionight)](https://github.com/MrBlueBird2/github-readme-activity-graph)
-</div>
+
 
 <!--
 **PabloExeQGimenez/PabloExeQGimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
