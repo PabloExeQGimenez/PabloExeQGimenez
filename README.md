@@ -27,10 +27,11 @@
 
  <h2> 📊 Github Stats</h2>
 <p >
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PabloExeqGimenez&theme=tokyonight">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pabloexeqgimenez&theme=tokyonight">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pabloexeqgimenez&theme=tokyonight">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pabloexeqgimenez&theme=tokyonight&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PabloExeqGimenez&theme=tokyonight" width="750" align="center">
+<br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pabloexeqgimenez&theme=tokyonight" width="250">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pabloexeqgimenez&theme=tokyonight" width="250">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pabloexeqgimenez&theme=tokyonight&utcOffset=8" width="250">
 	
 </p>
 
