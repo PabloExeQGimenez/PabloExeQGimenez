@@ -26,12 +26,6 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pabloexeqgimenez&theme=tokyonight"/></p>
 </div>
-
-<div align="right">
- <b style = {font-weight: 400}>Visitors Count</b>
-
-<p style = {font-weight: 400}><img src="https://profile-counter.glitch.me/{pabloexeqgimenez}/count.svg" /></p> 
-<br>
 <hr>
 
 
