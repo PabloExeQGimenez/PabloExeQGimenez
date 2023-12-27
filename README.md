@@ -24,8 +24,8 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pabloexeqgimenez&theme=tokyonight"/></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloexeqgimenez&layout=compact&theme=tokyonight"/></p>
-</p>
+ <a><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloexeqgimenez&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="josuerv99" /></p></a>
+
 
 
 </div>
