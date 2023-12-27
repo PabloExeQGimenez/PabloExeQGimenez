@@ -27,9 +27,7 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pabloexeqgimenez&theme=tokyonight"/></p>
 <hr>
 <img align="right" src="https://views.whatilearened.today/views/github/pabloexeqgimenez/pabloexeqgimenez.svg?cache=remove"/>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=pabloexeqgimenez&theme=github_dark">
-</p>
+
 </div>
 
 <!--
