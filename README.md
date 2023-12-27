@@ -1,6 +1,97 @@
 ![Web-developer](https://res.cloudinary.com/dryi0j55n/image/upload/f_auto,q_auto/v1/varios/lquqn3z49xv60aadwrl5)
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40">
 
+
+
+<table align="center">
+ <tr>
+	 <td align="center" colspan="4">
+        <h3>Lenguajes</h3>   
+    </td>
+	 <td align="center" colspan="3">
+        <h3>Frameworks</h3>   
+    </td>
+	 
+ </tr>
+
+<tr>
+      <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=java" width="48" height="48" />
+     </td>
+	 <td align="center" width="96">
+     	<img src="https://skillicons.dev/icons?i=js" width="48" height="48"/>    
+    </td>
+	 <td align="center" width="96">
+	<img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>     
+    </td>
+ <td align="center" width="96">
+	<img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>      
+    </td>
+		<td align="center" width="96">
+	<img src="https://skillicons.dev/icons?i=spring" width="48" height="48"/>    
+    <td align="center" width="96">
+	<img src="https://skillicons.dev/icons?i=vue" width="48" height="48"/>      
+    </td>
+	<td align="center" width="96">
+	<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48"/>     
+    </td>	
+ </tr>
+ <tr>
+	 <td align="center" colspan="4" rowspan="5">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloexeqgimenez&show_icons=true&theme=tokyonight&locale=es&hide=jupyter%20notebook,lex,&langs_count=8" alt="pabloexeqgimenez" height="320" />
+    </td>
+ 	<td colspan="3" align="center">
+		<h3>Librerias y Herramientas</h3>
+	<tr>
+		<td align="center">
+			<img src="https://skillicons.dev/icons?i=gradle" />
+		</td>
+		<td align="center">
+			<img src="https://skillicons.dev/icons?i=hibernate" />
+		</td>
+		<td align="center">
+			<img src="https://skillicons.dev/icons?i=postgres" />
+		</td>
+	</tr>
+	</td>
+	<tr align="center">
+		<td>
+			<img src="https://skillicons.dev/icons?i=postman" />
+		</td>
+		<td>
+			<img src="https://skillicons.dev/icons?i=idea" />
+		</td>
+		<td>
+			<img src="https://skillicons.dev/icons?i=eclipse" />
+		</td>
+	</tr>
+ <tr align="center">
+		<td>
+			<img src="https://skillicons.dev/icons?i=vscode" />
+		</td>
+		<td>
+			<img src="https://skillicons.dev/icons?i=linux" />
+		</td>
+		<td>
+			<img src="https://skillicons.dev/icons?i=git" />
+		</td>
+	</tr>
+  <tr align="center">
+		<td>
+			<img src="https://skillicons.dev/icons?i=github" />
+		</td>
+		<td>
+			<img src="https://skillicons.dev/icons?i=docker" />
+		</td>
+		<td>
+			<img src="https://skillicons.dev/icons?i=facebook" />
+		</td>
+	</tr>
+ </tr>
+ 
+</table>
+
+
 <div align="center">
 
 <h2>Languages</h2>
