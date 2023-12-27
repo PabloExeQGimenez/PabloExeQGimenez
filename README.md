@@ -1,5 +1,24 @@
 ![Web-developer](https://res.cloudinary.com/dryi0j55n/image/upload/f_auto,q_auto/v1/varios/lquqn3z49xv60aadwrl5)
 
+<h2>Languages</h2>
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+  </a>
+</p>
+<h2>Frameworks</h2>
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,vue,bootstrap" />
+  </a>
+</p>
+<h2>Software & Tools</h2>
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gradle,hibernate,postgres,postman,idea,vscode,eclipse,linux,git,github,docker" />
+  </a>
+</p>
+
 <!--
 **PabloExeQGimenez/PabloExeQGimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
