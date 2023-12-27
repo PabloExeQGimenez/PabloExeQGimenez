@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Web-developer](https://res.cloudinary.com/dryi0j55n/image/upload/f_auto,q_auto/v1/varios/lquqn3z49xv60aadwrl5)
 
 <!--
