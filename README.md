@@ -5,11 +5,11 @@
 <table align="center">
 	<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40">
 
- <tr>
-	 <td align="center" colspan="4">
+ <tr >
+	 <td align="center" colspan="4" height="10">
         <h3>Lenguajes</h3>   
     </td>
-	 <td align="center" colspan="3">
+	 <td align="center" colspan="3" height="10">
         <h3>Frameworks</h3>   
     </td>
 	 
