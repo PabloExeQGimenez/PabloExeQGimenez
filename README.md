@@ -94,26 +94,6 @@
 
 <div align="center">
 
-<h2>Languages</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css" />
-     <a><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloexeqgimenez&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="josuerv99" /></p></a>
-  </a>
-</p>
-<h2>Frameworks</h2>
-<p >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,vue,bootstrap" />
-  </a>
-</p>
-<h2>Software & Tools</h2>
-<p >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gradle,hibernate,postgres,postman,idea,vscode,eclipse,linux,git,github,docker" />
-  </a>
-</p>
-<p>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" src="https://views.whatilearened.today/views/github/pabloexeqgimenez/pabloexeqgimenez.svg?cache=remove"/>
 
