@@ -21,7 +21,8 @@
   </a>
 </p>
 <p>
-  ## Github Stats
+  
+  <h2>Github Stats</h2>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pabloexeqgimenez&theme=tokyonight"/></p>
 </div>
@@ -29,8 +30,13 @@
 <div align="right">
  <b style = {font-weight: 400}>Visitors Count</b>
 
-<p><img src="https://profile-counter.glitch.me/{pabloexeqgimenez}/count.svg" /></p> 
+<p style = {font-weight: 400}><img src="https://profile-counter.glitch.me/{pabloexeqgimenez}/count.svg" /></p> 
 <br>
+<hr>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=pabloexeqgimenez&theme=tokyonight&no-bg=true" />
+
+[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=pabloexeqgimenez&theme=tokyionight)](https://github.com/MrBlueBird2/github-readme-activity-graph)
 </div>
 
 <!--
