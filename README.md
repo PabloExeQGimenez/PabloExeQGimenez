@@ -4,7 +4,7 @@
 
 
 ## 📌 Proyecto destacado
-# [Rio Bank](https://riobank.onrender.com/web/index.html)
+# [Rio Bank](https://github.com/PabloExeQGimenez/RioBank)
 
 <table align="center">
 
