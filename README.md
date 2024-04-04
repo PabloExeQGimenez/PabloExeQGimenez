@@ -44,7 +44,7 @@
  </tr>
  <tr>
 	 <td align="center" colspan="4" rowspan="5">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloexeqgimenez&show_icons=true&theme=tokyonight&locale=es&hide=jupyter%20notebook,lex,&langs_count=8" alt="pabloexeqgimenez" height="320" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloexeqgimenez&show_icons=true&theme=tokyonight&locale=es&hide=jupyter%20notebook,lex,&langs_count=8" alt="pabloexeqgimenez" height="400" />
     </td>
  	<td colspan="3" align="center">
 		<h3>Librerias y Herramientas</h3>
