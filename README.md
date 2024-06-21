@@ -4,102 +4,55 @@
 
 # [Rio Bank](https://github.com/PabloExeQGimenez/RioBank)
 
-<div style="background:white">
-	<p>Hola mundo</p>
+<style>
+.skills > div{
+	display:inline;
+}
+.grande{
+
+}
+.js{
+	border-bottom: solid #82CE36;
+}
+.java{
+		border-bottom: solid #E24D17;
+
+}
+</style>
+<div class="skills">
+<h2>Backend</h2>
+	<div class="grande">
+	<img src="https://skillicons.dev/icons?i=js" width="96" />
+	<img src="https://skillicons.dev/icons?i=nodejs" width="96" />
+	</div>
+	<div class="js">
+	<img src="https://skillicons.dev/icons?i=express,npm,vite" />
+	</div>
 </div>
+<br>
+<div class="skills">
+	<div class="grande">
+	<img src="https://skillicons.dev/icons?i=java" width="96" />
+	</div>
+	<div class="java">
+	<img src="https://skillicons.dev/icons?i=spring,hibernate,gradle" />
+	</div>
+</div>
+<br>
+<div class="skills">
+	<h2>Frontend</h2>
+	<div class="front">
+	<img src="https://skillicons.dev/icons?i=js,css,html,bootstrap,vue,react" />
+	</div>
+</div>
+<br><br><hr>
 
 
 
-<!-- <table align="center">
-
- <tr >
-	<td align="center" colspan="4" height="10">
-        <h3>Lenguajes</h3>   
-  </td>
-	 <td align="center" colspan="3" height="10">
-        <h3>Frameworks</h3>   
-    </td>
- </tr>
-
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=java" width="48" height="48" />
-  </td>
-	<td align="center" width="96">
-     	<img src="https://skillicons.dev/icons?i=js" width="48" height="48">    
-    </td>
-	 <td align="center" width="96">
-	<img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>     
-    </td>
- <td align="center" width="96">
-	<img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>      
-    </td>
-		<td align="center" width="96">
-	<img src="https://skillicons.dev/icons?i=spring" width="48" height="48"/>    
-    <td align="center" width="96">
-	<img src="https://skillicons.dev/icons?i=vue" width="48" height="48"/>      
-    </td>
-	<td align="center" width="96">
-	<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48"/>     
-    </td>	
- </tr>
- <tr>
-	 <td align="center" colspan="4" rowspan="5">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloexeqgimenez&show_icons=true&theme=tokyonight&locale=es&hide=jupyter%20notebook,lex,&langs_count=8" alt="pabloexeqgimenez" height="400" />
-    </td>
- 	<td colspan="3" align="center">
-		<h3>Librerias y Herramientas</h3>
-	<tr>
-		<td align="center">
-			<img src="https://skillicons.dev/icons?i=gradle" />
-		</td>
-		<td align="center">
-			<img src="https://skillicons.dev/icons?i=hibernate" />
-		</td>
-		<td align="center">
-			<img src="https://skillicons.dev/icons?i=postgres" />
-		</td>
-	</tr>
-	</td>
-	<tr align="center">
-		<td>
-			<img src="https://skillicons.dev/icons?i=postman" />
-		</td>
-		<td>
-			<img src="https://skillicons.dev/icons?i=idea" />
-		</td>
-		<td>
-			<img src="https://skillicons.dev/icons?i=eclipse" />
-		</td>
-	</tr>
- <tr align="center">
-		<td>
-			<img src="https://skillicons.dev/icons?i=vscode" />
-		</td>
-		<td>
-			<img src="https://skillicons.dev/icons?i=linux" />
-		</td>
-		<td>
-			<img src="https://skillicons.dev/icons?i=git" />
-		</td>
-	</tr>
-  <tr align="center">
-		<td>
-			<img src="https://skillicons.dev/icons?i=github" />
-		</td>
-		<td>
-			<img src="https://skillicons.dev/icons?i=docker" />
-		</td>
-		<td>
-			Lombok<br>MapStruct<br>Axios
-		</td>
-	</tr>
- </tr>
- 
-</table> -->
+<hr>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloexeqgimenez&show_icons=true&theme=tokyonight&locale=es&hide=jupyter%20notebook,lex,&langs_count=8" alt="pabloexeqgimenez" height="400" />
 
 <div align="center">
-
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" src="https://views.whatilearened.today/views/github/pabloexeqgimenez/pabloexeqgimenez.svg?cache=remove"/>
 
