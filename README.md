@@ -1,31 +1,26 @@
 ![Web-developer](https://res.cloudinary.com/dryi0j55n/image/upload/f_auto,q_auto/v1/varios/lquqn3z49xv60aadwrl5)
 
-
-
-
 ## 📌 Proyecto destacado
+
 # [Rio Bank](https://github.com/PabloExeQGimenez/RioBank)
 
-<table align="center">
+<!-- <table align="center">
 
-
- 
  <tr >
-	 <td align="center" colspan="4" height="10">
+	<td align="center" colspan="4" height="10">
         <h3>Lenguajes</h3>   
-    </td>
+  </td>
 	 <td align="center" colspan="3" height="10">
         <h3>Frameworks</h3>   
     </td>
-	 
  </tr>
 
 <tr>
-      <td align="center" width="96">
+  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=java" width="48" height="48" />
-     </td>
-	 <td align="center" width="96">
-     	<img src="https://skillicons.dev/icons?i=js" width="48" height="48"/>    
+  </td>
+	<td align="center" width="96">
+     	<img src="https://skillicons.dev/icons?i=js" width="48" height="48">    
     </td>
 	 <td align="center" width="96">
 	<img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>     
@@ -95,8 +90,7 @@
 	</tr>
  </tr>
  
-</table>
-
+</table> -->
 
 <div align="center">
 
