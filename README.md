@@ -9,8 +9,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,gradle)](https://skillicons.dev)
 
-## Bases de datos
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres,)](https://skillicons.dev)
+## SQL y NoSQL
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
 
 ## Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,css,html,bootstrap,vue,react,md)](https://skillicons.dev)
