@@ -4,50 +4,22 @@
 
 # [Rio Bank](https://github.com/PabloExeQGimenez/RioBank)
 
-<style>
-.skills > div{
-	display:inline;
-}
-.grande{
+## Backend
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,pug,npm,vite)](https://skillicons.dev)
 
-}
-.js{
-	border-bottom: solid #82CE36;
-}
-.java{
-		border-bottom: solid #E24D17;
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,gradle)](https://skillicons.dev)
 
-}
-</style>
-<div class="skills">
-<h2>Backend</h2>
-	<div class="grande">
-	<img src="https://skillicons.dev/icons?i=js" width="96" />
-	<img src="https://skillicons.dev/icons?i=nodejs" width="96" />
-	</div>
-	<div class="js">
-	<img src="https://skillicons.dev/icons?i=express,npm,vite" />
-	</div>
-</div>
-<br>
-<div class="skills">
-	<div class="grande">
-	<img src="https://skillicons.dev/icons?i=java" width="96" />
-	</div>
-	<div class="java">
-	<img src="https://skillicons.dev/icons?i=spring,hibernate,gradle" />
-	</div>
-</div>
-<br>
-<div class="skills">
-	<h2>Frontend</h2>
-	<div class="front">
-	<img src="https://skillicons.dev/icons?i=js,css,html,bootstrap,vue,react" />
-	</div>
-</div>
-<br><br><hr>
+## Bases de datos
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres,)](https://skillicons.dev)
 
+## Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,css,html,bootstrap,vue,react,md)](https://skillicons.dev)
 
+## GNU/Linux - Scripting
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu,mint)](https://skillicons.dev)
+
+## Herramientas
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,idea)](https://skillicons.dev)
 
 <hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloexeqgimenez&show_icons=true&theme=tokyonight&locale=es&hide=jupyter%20notebook,lex,&langs_count=8" alt="pabloexeqgimenez" height="400" />
