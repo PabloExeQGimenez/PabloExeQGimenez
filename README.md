@@ -23,7 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,idea)](https://skillicons.dev)
 
 <div align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloexeqgimenez&show_icons=true&theme=tokyonight&locale=es&hide=jupyter%20notebook,lex,&langs_count=8" alt="pabloexeqgimenez" height="259" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloexeqgimenez&show_icons=true&theme=tokyonight&locale=es&hide=jupyter%20notebook,lex,&langs_count=8" alt="pabloexeqgimenez" height="259" />
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" src="https://views.whatilearened.today/views/github/pabloexeqgimenez/pabloexeqgimenez.svg?cache=remove"/>
 
