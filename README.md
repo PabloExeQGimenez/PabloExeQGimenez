@@ -1,6 +1,7 @@
 #### Soy Desarrollador Fullstack Node.js con 1 año de experiencia trabajando en una startup.
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,prisma)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react,css,html,bootstrap)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linux,debian)](https://skillicons.dev)...
