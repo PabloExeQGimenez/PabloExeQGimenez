@@ -1,14 +1,15 @@
+#### Soy Desarrollador Fullstack Node.js con 1 año de experiencia trabajando en una startup.
 
-## Backend
+#### Backend
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,prisma)](https://skillicons.dev)
 
-## SQL y NoSQL
+#### SQL y NoSQL
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
 
-## Frontend
+#### Frontend
 [![My Skills](https://skillicons.dev/icons?i=react,css,html,bootstrap)](https://skillicons.dev)
 
-## GNU/Linux - Scripting
+#### GNU/Linux - Scripting
 [![My Skills](https://skillicons.dev/icons?i=linux,debian)](https://skillicons.dev)...
 
 ## 📌 Proyecto destacado
