@@ -6,9 +6,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=linux,debian)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,debian)](https://skillicons.dev)...
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+
 
 ## 📌 Proyecto destacado
 # [Rio Bank](https://github.com/PabloExeQGimenez/RioBank)
