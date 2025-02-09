@@ -1,29 +1,21 @@
 
-## 📌 Proyecto destacado
-
-# [Rio Bank](https://github.com/PabloExeQGimenez/RioBank)
-
 ## Backend
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,pug,npm,vite)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,gradle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,prisma)](https://skillicons.dev)
 
 ## SQL y NoSQL
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
 
 ## Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,css,html,bootstrap,vue,react,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,css,html,bootstrap)](https://skillicons.dev)
 
 ## GNU/Linux - Scripting
+[![My Skills](https://skillicons.dev/icons?i=linux,debian)](https://skillicons.dev)...
 
-[![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu,mint)](https://skillicons.dev)...
+## 📌 Proyecto destacado
 
-## Herramientas
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,idea)](https://skillicons.dev)
+# [Rio Bank](https://github.com/PabloExeQGimenez/RioBank)
 
 <div align="center">
-
-
  <h2> 📊 Github Stats</h2>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloexeqgimenez&show_icons=true&theme=tokyonight&locale=es&hide=jupyter%20notebook,lex,&langs_count=8" alt="pabloexeqgimenez" height="400" />
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -32,10 +24,8 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PabloExeqGimenez&theme=tokyonight" width="750" align="center">
 <br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pabloexeqgimenez&theme=tokyonight" width="375">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pabloexeqgimenez&theme=tokyonight" width="375">
-	
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pabloexeqgimenez&theme=tokyonight" width="375">	
 </p>
-
 </div>
 
 <!--
