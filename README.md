@@ -3,7 +3,9 @@
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,prisma)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=react,css,html,bootstrap)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=linux,debian)](https://skillicons.dev)...
 
 ## 📌 Proyecto destacado
