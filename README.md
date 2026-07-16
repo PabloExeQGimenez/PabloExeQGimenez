@@ -10,7 +10,11 @@ Soy desarrollador Full Stack especializado en Node.js y NestJS. Me interesa el d
 
 Sistema de gestión para cooperativas de reciclaje desarrollado con React, NestJS, Prisma y PostgreSQL.
 
-[Demo](recicla-frontend.onrender.com)• Repositorio • Swagger
+## 🔗 Enlaces
+
+- 🚀 [Demo](https://recicla-frontend.onrender.com)
+- 📚 [Swagger](https://recicla-api.onrender.com/api/docs)
+- 💻 [Repositorio](https://github.com/pablogimenez/recicla)
 
 ## 🛠 Tecnologías
 
